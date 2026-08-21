@@ -1,0 +1,10 @@
+{
+  "name": "rre-ipr25",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RRE — Early-Stage Venture Capital Partner. Local replica of the Webflow site (rre-staging.webflow.io).",
+  "scripts": {
+    "start": "node serve.mjs 8080",
+    "serve": "node serve.mjs 8080"
+  }
+}
