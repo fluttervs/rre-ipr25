@@ -1,6 +1,16 @@
 # RRE — Early-Stage Venture Capital Partner
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-4E5FFD)](https://fluttervs.github.io/rre-ipr25/)
+
 A faithful local replica of the Webflow site **`rre-staging.webflow.io`**, rebuilt from the downloaded site bundle and the live staging pages.
+
+## 🌐 Live site
+
+Hosted on GitHub Pages (public, available even when this machine is offline):
+
+**https://fluttervs.github.io/rre-ipr25/**
+
+Every push to `main` auto-deploys via the `.github/workflows/deploy.yml` workflow.
 
 ## Structure
 
