@@ -27,7 +27,7 @@ jobs:
       - name: Stage site files
         run: |
           mkdir -p _site
-          cp -r css fonts images js player video \
+          cp -r css fonts images js player video team \
             index.html portfolio.html team.html rrepov.html _site/
           touch _site/.nojekyll
 
